@@ -1,0 +1,14 @@
+/vendor/
+/node_modules/
+/public/storage
+/storage/logs/
+/.idea/
+/.vscode/
+/test/
+Homestead.json
+Homestead.yaml
+npm-debug.log
+composer.lock
+/database/*.sqlite
+/public/css/*.css
+/public/js/*.js
