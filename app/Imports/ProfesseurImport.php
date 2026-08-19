@@ -13,7 +13,6 @@ class ProfesseurImport implements ToModel, WithHeadingRow
     use Importable;
     /**
      * @param array $row
-     *
      * @return \Illuminate\Database\Eloquent\Model|null
      */
     public function model(array $row)
