@@ -9,15 +9,19 @@ An academic complaints management application that lets students dispute a grade
 ## Table of Contents
 
 - [Landing / Login Page](#landing--login-page)
+  
   <img width="1920" height="918" alt="image" src="https://github.com/user-attachments/assets/72d41dd0-22a3-411b-b844-c3335c6e766d" />
 
 - [Admin Page](#admin-page)
+  
   <img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/8cf75528-aeab-427f-8746-c3cf5b36aa4f" />
 
 - [Professor Page](#professor-page)
+  
   <img width="1915" height="931" alt="image" src="https://github.com/user-attachments/assets/a8ba4581-3d7a-4b14-9408-93f2131399d0" />
 
 - [Student Page](#student-page)
+  
   <img width="1917" height="925" alt="image" src="https://github.com/user-attachments/assets/3a26b163-c562-449c-9f37-7f5ae22fd2c0" />
 
 - [Demo Accounts](#demo-accounts)
