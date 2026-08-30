@@ -128,3 +128,6 @@ A confirmation message appears after sending ("Saved successfully!").
 - **Status filtering** (Pending / Accepted / Rejected) and **search** on all main lists
 - **Roles and permissions**: `check.role` middleware on every route, ensuring a user can only access pages and data matching their role (admin / professor / student)
 - **Responsive**: the desktop sidebar collapses into a burger menu on mobile, and lists/tables adapt to small screens
+
+  ## Very Important note
+- This app is still under active development and may contain bugs please report any issues you encounter.
