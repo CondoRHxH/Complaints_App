@@ -108,11 +108,11 @@ A confirmation message appears after sending ("Saved successfully!").
 
 | Role | Display Name | Email |
 |---|---|---|
-| Professor | Nom2 Hamid | *(test account)* |
+| Professor | Nom2 Hamid | hamid@exemple.com |
 | Student | Nom1 Youssef | youssef@exemple.com |
 | Student | Nom2 Achraf | achraf@exemple.com |
-| Student | Hamid Nom2 | hamid@exemple.com |
 
+> To get any student or teacher password and email, just click on export on the admin dashboard and take them
 > Replace with real credentials before going to production. These `@exemple.com` addresses are test data.
 
 ---
