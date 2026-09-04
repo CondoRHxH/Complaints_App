@@ -78,11 +78,10 @@ Dashboard dedicated to complaints received by the logged-in professor.
 **Columns shown:** ID, student's Name/First name, Email, Status, Date received.
 
 **Responding to a complaint:**
-1. Click the detail icon (👁) to open the student's full message
-2. Click **Repondre** (Respond) to open the response form
-3. Enter the new grades (Continuous Assessment, Exam, Final) and a remark
-4. Attach a photo/supporting document (required)
-5. Choose **Accept** or **Reject** — a complaint can only be responded to once
+1. Click **Repondre** (Respond) to open the response form
+2. Enter the new grades (Continuous Assessment, Exam, Final) and a remark
+3. Attach a photo/supporting document (required)
+4. Choose **Accept** or **Reject** a complaint can only be responded to once
 
 **Security:** a professor can only view and respond to complaints addressed to them; any attempt to access another professor's complaint is blocked (403).
 
