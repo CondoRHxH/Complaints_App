@@ -36,7 +36,7 @@ The application's entry point. The user picks their profile:
 - **Professeur** (Professor)
 - **Etudiant** (Student)
 
-then logs in via the **Log in** button in the top right. The login form automatically redirects to the dashboard matching the account's role (Admin, Professor, or Student).
+Then logs in via the **Log in** button in the top right. The login form automatically redirects to the dashboard matching the account's role (Admin, Professor, or Student).
 
 ---
 
@@ -45,7 +45,7 @@ then logs in via the **Log in** button in the top right. The login form automati
 Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Formes**, **Paramètre**).
 
 **Overview (Dashboard):**
-- Live counters: number of **Students**, **Complaints**, **Professors**
+- Live counters: Number of **Students**, **Complaints**, **Professors**
 - List of recent complaints with a **Status** filter (Pending / Accepted / Rejected), search, and a reload button
 - Pagination
 
@@ -71,9 +71,9 @@ Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Forme
 Dashboard dedicated to complaints received by the logged-in professor.
 
 **Tabs:**
-- **Recemment** (Recent): complaints awaiting a response
-- **Accepte** (Accepted): complaints processed and accepted
-- **Rejecter** (Rejected): complaints processed and rejected
+- **Recemment** (Recent): Complaints awaiting a response
+- **Accepte** (Accepted): Complaints processed and accepted
+- **Rejecter** (Rejected): Complaints processed and rejected
 
 **Columns shown:** ID, student's Name/First name, Email, Status, Date received.
 
