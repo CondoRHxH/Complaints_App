@@ -33,8 +33,9 @@ An academic complaints management application that lets students dispute a grade
 
 The application's entry point. The user picks their profile:
 
-- **Professeur** (Professor)
-- **Etudiant** (Student)
+- **Professeur**
+- **Etudiant**
+- **Admin**
 
 Then logs in via the **Log in** button in the top right. The login form automatically redirects to the dashboard matching the account's role (Admin, Professor, or Student).
 
