@@ -48,7 +48,7 @@ Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Forme
 **Overview (Dashboard):**
 - Live counters: Number of **Students**, **Complaints**, **Professors**
 - List of recent complaints with a **Status** filter (Pending / Accepted / Rejected), search, and a reload button
-- Pagination
+
 
 **Student Management (Formes → Etudiant):**
 - Paginated list with search by name/first name
