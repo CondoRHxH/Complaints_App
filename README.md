@@ -37,7 +37,7 @@ The application's entry point. The user picks their profile:
 - **Etudiant**
 - **Admin**
 
-Then logs in via the **Log in** button in the top right. The login form automatically redirects to the dashboard matching the account's role (Admin, Professor, or Student).
+Then logs in via the **Log in** button in the top right. The login form automatically redirects to the dashboard to sign in if you are an admin.
 
 ---
 
