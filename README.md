@@ -53,7 +53,7 @@ Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Forme
 **Student Management (Formes → Etudiant):**
 - Paginated list with search by name/first name
 - **Excel Import**: bulk add students via an `.xls`/`.xlsx` file
-- **Excel Export**: download the full student list
+- **Excel Export**: download the full student list including their generated password
 - Delete the students table
 
 **Professor Management (Formes → Professeur):**
