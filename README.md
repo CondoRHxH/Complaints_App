@@ -80,7 +80,7 @@ Dashboard dedicated to complaints received by the logged-in professor.
 
 **Responding to a complaint:**
 1. Click **Repondre** (Respond) to open the response form
-2. Enter the new grades (Continuous Assessment, Exam, Final) and a remark
+2. Enter the new grades (Continuous Assessment, Exam, Final) and a remark, or keep as it is
 3. Attach a photo/supporting document (required)
 4. Choose **Accept** or **Reject** a complaint can only be responded to once
 
