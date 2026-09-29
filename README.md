@@ -60,10 +60,10 @@ Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Forme
 - Same features as Student Management: list, search, Excel import/export
 
 **Add S/M/M (Formes → Ajouter S/M/M):**
-- Create Semesters, Modules, and Subjects, linked to the professors who teach them
+- Create Semesters, Modules, and Subjects, linked to the professors who teach them.
 
 **Settings (Paramètre):**
-- Logout
+- Logout : to close out the session
 
 ---
 
@@ -117,7 +117,6 @@ A confirmation message appears after sending ("Saved successfully!").
 | Student | Nom2 Achraf | achraf@exemple.com |
 
 > To get any student or teacher password and email, just click on export on the admin dashboard and take them
-> Replace with real credentials before going to production. These `@exemple.com` addresses are test data.
 
 ---
 
