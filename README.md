@@ -95,7 +95,7 @@ Dashboard dedicated to complaints received by the logged-in professor.
 Interface for a student to submit a grade dispute.
 
 **Sending a complaint:**
-1. Select: **Semester**, **Module**, **Subject**, **Professor**, **Academic Year**
+1. Select : **Semester**, **Module**, **Subject**, **Professor**, **Academic Year**
 2. Write the reason for the complaint in the **About me** field
 3. Click **Envoyer** (Send)
 
