@@ -2,7 +2,7 @@
 
 An academic complaints management application that lets students dispute a grade with a professor, with tracking and administrative oversight.
 
-**Stack:** Laravel · MySQL · Tailwind CSS · AlpineJS · Font Awesome
+**Stack:** Laravel · MySQL · Tailwind CSS · AlpineJS · Font Awesome.
 
 ---
 
@@ -33,9 +33,9 @@ An academic complaints management application that lets students dispute a grade
 
 The application's entry point. The user picks their profile:
 
-- **Professeur**
-- **Etudiant**
-- **Admin**
+- **Professeur**.
+- **Etudiant**.
+- **Admin**.
 
 Then logs in via the **Log in** button in the top right. The login form automatically redirects to the dashboard to sign in if you are an admin.
 
