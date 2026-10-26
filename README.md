@@ -46,8 +46,8 @@ Then logs in via the **Log in** button in the top right. The login form automati
 Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Formes**, **Paramètre**).
 
 **Overview (Dashboard):**
-- Live counters: Number of **Students**, **Complaints**, **Professors**
-- List of recent complaints with a **Status** filter (Pending / Accepted / Rejected), search, and a reload button
+- Live counters: Number of **Students**, **Complaints**, **Professors**.
+- List of recent complaints with a **Status** filter (Pending / Accepted / Rejected), search, and a reload button.
 
 
 **Student Management (Formes → Etudiant):**
