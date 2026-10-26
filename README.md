@@ -57,13 +57,13 @@ Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Forme
 - Delete the students table.
 
 **Professor Management (Formes → Professeur):**
-- Same features as Student Management: list, search, Excel import/export
+- Same features as Student Management: list, search, Excel import/export.
 
 **Add S/M/M (Formes → Ajouter S/M/M):**
 - Create Semesters, Modules, and Subjects, linked to the professors who teach them.
 
 **Settings (Paramètre):**
-- Logout : to close out the session
+- Logout : to close out the session.
 
 ---
 
@@ -72,9 +72,9 @@ Dashboard reserved for the administrator, with a sidebar (**Dashboard**, **Forme
 Dashboard dedicated to complaints received by the logged-in professor.
 
 **Tabs:**
-- **Recemment** (Recent): Complaints awaiting a response
-- **Accepte** (Accepted): Complaints processed and accepted
-- **Rejecter** (Rejected): Complaints processed and rejected
+- **Recemment** (Recent): Complaints awaiting a response.
+- **Accepte** (Accepted): Complaints processed and accepted.
+- **Rejecter** (Rejected): Complaints processed and rejected.
 
 **Columns shown:** ID, student's Name/First name, Email, Status, Date received.
 
