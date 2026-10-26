@@ -79,10 +79,10 @@ Dashboard dedicated to complaints received by the logged-in professor.
 **Columns shown:** ID, student's Name/First name, Email, Status, Date received.
 
 **Responding to a complaint:**
-1. Click **Repondre** (Respond) to open the response form
-2. Enter the new grades (Continuous Assessment, Exam, Final) and a remark, or keep as it is
-3. Attach a photo/supporting document (required)
-4. Choose **Accept** or **Reject** a complaint can only be responded to once
+1. Click **Repondre** (Respond) to open the response form.
+2. Enter the new grades (Continuous Assessment, Exam, Final) and a remark, or keep as it is.
+3. Attach a photo/supporting document (required).
+4. Choose **Accept** or **Reject** a complaint can only be responded to once.
 
 **Security:** a professor can only view and respond to complaints addressed to them; any attempt to access another professor's complaint is blocked (403).
 
@@ -95,9 +95,9 @@ Dashboard dedicated to complaints received by the logged-in professor.
 Interface for a student to submit a grade dispute.
 
 **Sending a complaint:**
-1. Select : **Semester**, **Module**, **Subject**, **Professor**, **Academic Year**
-2. Write the reason for the complaint in the **About me** field
-3. Click **Envoyer** (Send)
+1. Select : **Semester**, **Module**, **Subject**, **Professor**, **Academic Year**.
+2. Write the reason for the complaint in the **About me** field.
+3. Click **Envoyer** (Send).
 
 **Tracking complaints:**
 - **Recemment** (Recent): sent complaints, awaiting a response
