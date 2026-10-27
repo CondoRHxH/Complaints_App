@@ -100,9 +100,9 @@ Interface for a student to submit a grade dispute.
 3. Click **Envoyer** (Send).
 
 **Tracking complaints:**
-- **Recemment** (Recent): sent complaints, awaiting a response
-- **Accepte** (Accepted): complaints validated by the professor (new grade applied)
-- **Rejecter** (Rejected): rejected complaints, with the professor's remark viewable via the 👁 icon
+- **Recemment** (Recent): sent complaints, awaiting a response.
+- **Accepte** (Accepted): complaints validated by the professor (new grade applied).
+- **Rejecter** (Rejected): rejected complaints, with the professor's remark viewable via the 👁 icon.
 
 A confirmation message appears after sending ("Saved successfully!").
 
